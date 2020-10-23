@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/mercadolibreapp/precache-manifest.f27a0de784354ebdf4af8b685b62427d.js"
+  "/mercadolibreapp/precache-manifest.99a889b00289a8ed0f524ac9f348d46a.js"
 );
 
 self.addEventListener('message', (event) => {
