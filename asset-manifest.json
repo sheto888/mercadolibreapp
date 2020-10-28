@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/mercadolibreapp/static/css/main.5f361e03.chunk.css",
-    "main.js": "/mercadolibreapp/static/js/main.19e6ec8e.chunk.js",
-    "main.js.map": "/mercadolibreapp/static/js/main.19e6ec8e.chunk.js.map",
+    "main.js": "/mercadolibreapp/static/js/main.485fab02.chunk.js",
+    "main.js.map": "/mercadolibreapp/static/js/main.485fab02.chunk.js.map",
     "runtime-main.js": "/mercadolibreapp/static/js/runtime-main.417eb31b.js",
     "runtime-main.js.map": "/mercadolibreapp/static/js/runtime-main.417eb31b.js.map",
     "static/js/2.2f83cee1.chunk.js": "/mercadolibreapp/static/js/2.2f83cee1.chunk.js",
     "static/js/2.2f83cee1.chunk.js.map": "/mercadolibreapp/static/js/2.2f83cee1.chunk.js.map",
     "index.html": "/mercadolibreapp/index.html",
-    "precache-manifest.99a889b00289a8ed0f524ac9f348d46a.js": "/mercadolibreapp/precache-manifest.99a889b00289a8ed0f524ac9f348d46a.js",
+    "precache-manifest.f1b2abc7ca4e6660aab5a8b44e049a75.js": "/mercadolibreapp/precache-manifest.f1b2abc7ca4e6660aab5a8b44e049a75.js",
     "service-worker.js": "/mercadolibreapp/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/mercadolibreapp/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.2f83cee1.chunk.js.LICENSE.txt": "/mercadolibreapp/static/js/2.2f83cee1.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.417eb31b.js",
     "static/js/2.2f83cee1.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.19e6ec8e.chunk.js"
+    "static/js/main.485fab02.chunk.js"
   ]
 }
